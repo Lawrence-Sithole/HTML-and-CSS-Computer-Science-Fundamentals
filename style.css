@@ -1,0 +1,27 @@
+header {
+  background-color: orangered;
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#navigationBar {
+  background-color: rgb(55, 55, 55);
+  position: sticky;
+  top: 0;
+}
+#navigationBar a {
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  padding: 15px;
+}
+.pageContent {
+  padding: 2%;
+}
+img {
+  width: 100%;
+}
