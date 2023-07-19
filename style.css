@@ -21,6 +21,14 @@ body {
 }
 .pageContent {
   padding: 2%;
+  display: flex;
+}
+.sidebar {
+  flex: 30%;
+  padding: 2%;
+}
+.main {
+  flex: 70%;
 }
 img {
   width: 100%;
